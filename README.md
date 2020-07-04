@@ -1,6 +1,6 @@
 # Created a simple Calculator App.
 
-**Developed a calculator app which is an essential tool for your smartphone, simple and easy to use with a sleek design. Hence created the perfect calculator for iOS.”.**
+**Developed a calculator app which is an essential tool for your smartphone, simple and easy to use with a sleek design. Hence created the perfect calculator for iOS.**
 
 **It has a clear display format and easy to read along with an intuitive and attractive design that facilitates calculations every day.**
 
